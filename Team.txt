@@ -1,3 +1,5 @@
 Pay 360 team
 
-1. Private team
+1. Private Team
+
+2. Public Team
